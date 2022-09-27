@@ -1,0 +1,43 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: baseline;
+  }
+  h2 {
+    margin-left: 20%;
+  }
+    main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  .wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+          }
+  .box {
+    width: 400px;
+  }
+  .box3 {
+    align-self: baseline;
+  }
+  aside {
+    float: right;
+    width: 30%;
+  }
+  img {
+    width: 450px;
+  }
+  h3 {
+    margin-left: 20px;
+  }
+  footer {
+    clear: both;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+  }
